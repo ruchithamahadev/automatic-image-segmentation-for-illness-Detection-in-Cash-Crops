@@ -1,0 +1,1 @@
+Placeholder: train model using train_model.py. When you run 'python train_model.py' a Keras model file will be saved to model/my_model.h5

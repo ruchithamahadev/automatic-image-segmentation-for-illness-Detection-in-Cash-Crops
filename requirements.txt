@@ -1,0 +1,7 @@
+numpy
+pillow
+flask
+scikit-learn
+matplotlib
+# Install tensorflow only if you plan to train or run the real model:
+# pip install tensorflow
