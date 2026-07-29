@@ -1,0 +1,29 @@
+{
+    "Apple___Apple_scab": "Remove infected leaves, prune trees for better air circulation, and apply fungicide regularly.",
+    "Apple___Black_rot": "Prune affected branches, remove fallen debris, and use copper-based fungicides.",
+    "Apple___Cedar_apple_rust": "Plant resistant varieties, remove nearby cedar trees, and apply fungicides during infection period.",
+    "Apple___healthy": "No treatment needed. Maintain proper care and regular monitoring.",
+
+    "Corn_(maize)___Cercospora_leaf_spot_Gray_leaf_spot": "Remove infected leaves, ensure proper spacing, and apply fungicide if necessary.",
+    "Corn_(maize)___Common_rust": "Plant resistant maize varieties and use fungicide as recommended.",
+    "Corn_(maize)___Northern_Leaf_Blight": "Rotate crops, remove infected debris, and apply fungicide early in infection.",
+    "Corn_(maize)___healthy": "No treatment needed. Maintain healthy practices.",
+
+    "Pepper_bell___Bacterial_spot": "Use certified disease-free seeds, remove infected plants, and apply copper sprays.",
+    "Pepper_bell___healthy": "No treatment needed. Keep good cultural practices.",
+
+    "Potato___Early_blight": "Remove infected foliage, rotate crops, and apply fungicides preventively.",
+    "Potato___Late_blight": "Avoid overhead watering, remove infected plants, and use recommended fungicides.",
+    "Potato___healthy": "No treatment needed. Maintain healthy soil and monitoring.",
+
+    "Tomato___Bacterial_spot": "Remove infected plants, practice crop rotation, and use copper-based sprays.",
+    "Tomato___Early_blight": "Remove affected leaves, apply fungicide, and maintain proper spacing.",
+    "Tomato___Late_blight": "Avoid wetting foliage, remove infected plants, and apply protective fungicide.",
+    "Tomato___Leaf_Mold": "Improve ventilation, remove infected leaves, and use fungicides as needed.",
+    "Tomato___Septoria_leaf_spot": "Remove infected foliage, avoid overhead irrigation, and apply fungicides.",
+    "Tomato___Spider_mites_Two_spotted_spider_mite": "Use insecticidal soap, neem oil, or introduce natural predators.",
+    "Tomato___Target_Spot": "Remove infected plants, apply appropriate fungicides, and rotate crops.",
+    "Tomato___Tomato_YellowLeaf_Curl_Virus": "Plant resistant varieties and control whiteflies; remove infected plants.",
+    "Tomato___Tomato_mosaic_virus": "Sanitize tools, remove infected plants, and plant resistant varieties.",
+    "Tomato___healthy": "No treatment needed. Maintain regular care and monitoring."
+}
