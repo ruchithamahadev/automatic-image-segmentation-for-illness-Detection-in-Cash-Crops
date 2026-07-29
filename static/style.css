@@ -1,0 +1,6 @@
+
+body { font-family: Arial, sans-serif; margin: 2rem; }
+h1 { color: #2b7a78; }
+.container { max-width: 720px; margin: auto; }
+img.sample { border: 1px solid #ddd; padding: 4px; background: #fff; }
+form { margin-top: 1rem; }
