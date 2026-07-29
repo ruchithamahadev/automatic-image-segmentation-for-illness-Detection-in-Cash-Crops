@@ -3,6 +3,5 @@ pillow
 flask
 scikit-learn
 matplotlib
-tensorflow
-# Install tensorflow only if you plan to train or run the real model:
-# pip install tensorflow
+tensorflow==2.17.0
+gunicorn
